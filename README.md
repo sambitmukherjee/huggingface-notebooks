@@ -1,2 +1,3 @@
-# notebooks
+# huggingface-notebooks
+
 Notebooks using the Hugging Face libraries 🤗
